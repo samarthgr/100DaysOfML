@@ -7,3 +7,9 @@
 * From [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course/)
 
 **Thoughts** : Hope this will be exiciting ,will help me in learning Machine Learning in a more effective way .
+
+## Day 1 : July 23 , 2018
+ 
+**Today's Progress** : From [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course/) Finished till Gradient descent.
+
+**Thoughts** : Learnt about the supervised learning, especially about regression problems.
