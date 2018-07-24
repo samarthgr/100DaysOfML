@@ -13,3 +13,9 @@
 **Today's Progress** : From [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course/) Finished till Gradient descent.
 
 **Thoughts** : Learnt about the supervised learning, especially about regression problems.
+
+## Day 2 : July 24 , 2018
+ 
+**Today's Progress** : {Andrew Ng's third week} Notion of Classification, the cost function for Logistic Regression and application of logistic regressionto multi-class classification.
+
+**Thoughts** : Learnt the math behind why logistic regression is used in classification problems.
