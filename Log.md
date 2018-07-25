@@ -19,3 +19,9 @@
 **Today's Progress** : {Andrew Ng's third week} Notion of Classification, the cost function for Logistic Regression and application of logistic regressionto multi-class classification.
 
 **Thoughts** : Learnt the math behind why logistic regression is used in classification problems.
+
+## Day 3 : July 25 , 2018
+ 
+**Today's Progress** : {Andrew Ng's third week - Finished} Concept of underfitting and overfitting. Regularization as a way to avoid overfitting. How to apply regularization in linear and logistic regression.
+
+**Thoughts** : Completed with linear classifiers. Next stuff, non-linear classifiers like neural networks. Excited.
