@@ -25,3 +25,9 @@
 **Today's Progress** : {Andrew Ng's third week - Finished} Concept of underfitting and overfitting. Regularization as a way to avoid overfitting. How to apply regularization in linear and logistic regression.
 
 **Thoughts** : Completed with linear classifiers. Next stuff, non-linear classifiers like neural networks. Excited.
+
+## Day 4 : July 26 , 2018
+ 
+**Today's Progress** : {Andrew Ng's fourth week} Started with Neural Networks theory and model representation.
+
+**Thoughts** : Neural network is synonym to brain functionality.
