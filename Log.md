@@ -31,3 +31,7 @@
 **Today's Progress** : {Andrew Ng's fourth week} Started with Neural Networks theory and model representation.
 
 **Thoughts** : Neural network is synonym to brain functionality.
+
+## Day 5 : July 27 , 2018
+ 
+**Today's Progress** : {Andrew Ng's fourth week} Continuing with Neural Networks. Examples that illustrate how neural network is used to compute non-linear decision boundary's.
