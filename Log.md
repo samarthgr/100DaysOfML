@@ -35,3 +35,11 @@
 ## Day 5 : July 27 , 2018
  
 **Today's Progress** : {Andrew Ng's fourth week} Continuing with Neural Networks. Examples that illustrate how neural network is used to compute non-linear decision boundary's.
+
+## Day 6-7: July 28,29 , 2018
+ 
+**Today's Progress** : {Andrew Ng's fourth week} Finished with fourth week. Learned about Neural Network with multi class varient.
+
+## Day 8-9: July 30,31 , 2018
+ 
+**Today's Progress** : {Andrew Ng's fifth week} Cost function Neural Networks.
