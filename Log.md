@@ -43,3 +43,7 @@
 ## Day 8-9: July 30,31 , 2018
  
 **Today's Progress** : {Andrew Ng's fifth week} Cost function Neural Networks.
+
+## Day 10 : Aug 1 , 2018
+ 
+**Today's Progress** : {Andrew Ng's fifth week} Backpropagation in Neural Networks.
