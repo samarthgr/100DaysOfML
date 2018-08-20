@@ -47,3 +47,7 @@
 ## Day 10 : Aug 1 , 2018
  
 **Today's Progress** : {Andrew Ng's fifth week} Backpropagation in Neural Networks.
+
+## Day 11 : Aug 20 , 2018
+ 
+**Today's Progress** : {Andrew Ng's fifth week} Finished with fifth week. Learned Back propagation, unrolling parameters, Gradient Checking, Random initialization.
